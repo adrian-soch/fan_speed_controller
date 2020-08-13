@@ -1,4 +1,5 @@
 # fan_speed_controller
+Using a STM32L476 MCU to control fan speed based on Temperature readings.
 
 Uses on board pushbuttons to increase/decrease setpoint
 
